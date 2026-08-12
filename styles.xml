@@ -1,0 +1,9 @@
+<resources>
+ <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+  <item name="android:fontFamily">sans</item><item name="android:windowFullscreen">true</item>
+  <item name="android:navigationBarColor">#020804</item><item name="android:statusBarColor">#020804</item>
+  <item name="android:windowSplashScreenBackground">#020804</item>
+  <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+  <item name="android:windowSplashScreenAnimationDuration">650</item>
+ </style>
+</resources>
