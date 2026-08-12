@@ -3,6 +3,7 @@ package com.twagirumukiza.radar;
 import android.app.*;
 import android.os.*;
 import android.provider.MediaStore;
+import android.widget.Toast;
 import android.content.*;
 import android.content.ContentValues;
 import android.net.Uri;
