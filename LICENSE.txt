@@ -1,0 +1,62 @@
+LICENCE — RADAR
+Twagirumukiza Studio
+Copyright (c) 2026 Twagirumukiza Innocent. Tous droits réservés.
+
+1. OBJET
+
+La présente licence s'applique à l'ensemble du code source, des assets,
+de la documentation et des fichiers associés au projet « RADAR »
+(ci-après « le Logiciel »), publié dans ce dépôt.
+
+2. CONSULTATION AUTORISÉE
+
+Le code source du Logiciel est rendu public à des fins de consultation,
+d'étude et de démonstration technique. Toute personne est autorisée à :
+  - consulter et lire le code source ;
+  - cloner ou télécharger le dépôt pour un usage personnel, privé
+    et non distribué (test local, apprentissage) ;
+  - citer de courts extraits du code à des fins pédagogiques ou
+    d'illustration, à condition de mentionner clairement la source
+    (« Twagirumukiza Studio — projet RADAR ») et l'auteur.
+
+3. UTILISATIONS SOUMISES À AUTORISATION ÉCRITE PRÉALABLE
+
+Sauf accord écrit préalable de l'auteur, il est interdit de :
+  - copier, redistribuer, republier ou héberger tout ou partie du
+    Logiciel sur un autre dépôt, site, plateforme ou store
+    d'applications ;
+  - modifier le Logiciel pour en tirer une version dérivée
+    (« fork » commercial, reskin, portage) destinée à être diffusée
+    à des tiers ;
+  - utiliser le Logiciel, en tout ou partie, dans un produit ou
+    service commercial, gratuit ou payant ;
+  - intégrer le Logiciel, ou des portions substantielles de celui-ci,
+    dans un autre logiciel ou jeu ;
+  - retirer, masquer ou modifier les mentions d'auteur, de copyright
+    ou de marque (« Twagirumukiza Studio », « RADAR ») présentes dans
+    le code, les assets ou l'interface.
+
+4. MARQUE ET IDENTITÉ VISUELLE
+
+Le nom « RADAR », l'identité visuelle du jeu (icône, palette,
+interface radar) et la marque « Twagirumukiza Studio » ne sont pas
+couverts par une autorisation de réutilisation, même dans le cadre
+d'un usage du code toléré par la présente licence.
+
+5. ABSENCE DE GARANTIE
+
+Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte,
+expresse ou implicite, y compris sans garantie de qualité marchande,
+d'adéquation à un usage particulier ou d'absence de contrefaçon.
+En aucun cas l'auteur ne pourra être tenu responsable de tout
+dommage résultant de l'utilisation ou de l'impossibilité d'utiliser
+le Logiciel.
+
+6. CONTACT
+
+Toute demande d'autorisation d'utilisation, de licence commerciale
+ou de partenariat doit être adressée directement à l'auteur,
+Twagirumukiza Innocent (Twagirumukiza Studio, Paris, France).
+
+Le fait de rendre ce code source consultatif ne constitue en aucun
+cas une renonciation aux droits d'auteur de son créateur.
